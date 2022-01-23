@@ -12,7 +12,7 @@ const Bio = () => {
   return (
     <div>
       <p>
-        Built on Gatsby Cloud via <a herf="https://VerdaPress">VerdaPress</a>.
+        Built on Gatsby Cloud via <a href="https://VerdaPress.uk">VerdaPress</a>.
         Engineered by the Integral
       </p>
       <small>23.01.2022</small>
